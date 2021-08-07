@@ -7,4 +7,5 @@
 5- git checkout -- . // revierte, probar mas
 6- git log
 7- git commit --amend // Se abre el editor de texo para hacer correcciones.
-8- 
+8- git checkout -b nueva-rama // crea y switchea de rama
+9 - git branch // muestra las ramas
