@@ -13,6 +13,7 @@
 11. git merge nueva-rama
 12. git branch -d nueva-rama // Elimina la rama
 13. git push // publica en el repo remoto. 
+14. git commit -am "Aca va el mensaje" // Esto simplica y unifica los pasos 2 y 4, los hace de una.
 
 Nota: siempre que se modifique algo, luego siempre deben hacerse los pasos: 2, 4 y 13 para subir a por ejemplo GitHub.
 
