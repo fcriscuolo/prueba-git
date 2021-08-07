@@ -12,3 +12,8 @@
 10. git checkout master // volvemos a la rama master
 11. git merge nueva-rama
 12. git branch -d nueva-rama // Elimina la rama
+13. git push // publica en el repo remoto. 
+
+Nota: siempre que se modifique algo, luego siempre deben hacerse los pasos: 2, 4 y 13 para subir a por ejemplo GitHub.
+
+Fuente: https://www.youtube.com/watch?v=iT4UOkyI09k
